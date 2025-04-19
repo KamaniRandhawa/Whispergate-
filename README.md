@@ -1,3 +1,5 @@
+ 
+
 # 🔮 WHISPER GATE  
 > *"The gate opens only when the marigolds bleed."*  
 
@@ -25,3 +27,4 @@
 - Discord: `WhisperGate` (Coming Soon)  
 
 *"Silence is the loudest scream."*  
+![Blood Marigold](https://i.imgur.com/yourimage.png)
